@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/ToxicCybers/MentosMusic",
+    "repository": "https://github.com/log-afk-xd/kiara-musicbot",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
